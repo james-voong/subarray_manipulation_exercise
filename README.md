@@ -26,8 +26,8 @@ If it's not possible to get 2 disjointed intervals, then return -1.
 E.g. array = [1,2,10], X = 3, Y = 4.
 
 Requirements:
-Your algorithm needs to be efficient enough for the following:
-N is an int with range 2..100,000
-X and Y are ints with range 1..N-1
-Each element of the array is an int with range 1..1,000,000,000
-Provide the answer modulo 10e9 + 7
+* Your algorithm needs to be efficient enough for the following:
+* N is an int with range 2..100,000
+* X and Y are ints with range 1..N-1
+* Each element of the array is an int with range 1..1,000,000,000
+* Provide the answer modulo 10e9 + 7
